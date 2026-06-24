@@ -1,12 +1,13 @@
-# Hi there, I'm Harshitha Karedla 👋
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+RAG+Systems+Engineer+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%9F)](https://git.io/typing-svg)
+# Hi there, I'm Harshitha Karedla 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+RAG+Systems+Engineer+%F0%9F%A4%96;Backend+%26+API+Specialist+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitha-karedla)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshithakaredla)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshitha722)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshithakaredla@gmail.com)
 
 </div>
@@ -15,28 +16,17 @@
 
 ## 🙋‍♀️ About Me
 
-```python
-class Harshitha:
-    def __init__(self):
-        self.name        = "Harshitha Karedla"
-        self.role        = "Full Stack Developer & AI Engineer"
-        self.location    = "Hyderabad, Telangana, India"
-        self.education   = "B.Tech Information Technology @ VNR VJIET (CGPA: 9.15)"
-        self.email       = "harshithakaredla@gmail.com"
-        self.phone       = "+91 7013248476"
+🎓 B.Tech Information Technology student at **VNR VJIET, Hyderabad** 
 
-    def current_focus(self):
-        return [
-            "Building Advanced RAG & Agentic AI Systems",
-            "Scalable Backend Engineering with FastAPI & Node.js",
-            "LLM Inference Pipelines & Vector Search",
-        ]
+🤖 Passionate about **Applied AI**, **agentic systems**, and **production-grade full-stack engineering**
 
-    def fun_fact(self):
-        return "I design event posters by day and build AI pipelines by night 🎨🤖"
-```
+⚡ I love building things that actually work at scale — from RAG pipelines with semantic chunking to RBAC-secured REST APIs
 
-> 🎯 B.Tech IT student  passionate about **Applied AI**, **agentic systems**, and **production-grade full-stack engineering**. I love building things that actually work at scale — from RAG pipelines with semantic chunking to RBAC-secured REST APIs. Currently seeking opportunities in **AI/ML Engineering**, **Full Stack Development**, and **Backend Systems**.
+🎯 Currently seeking opportunities in **AI/ML Engineering**, **Full Stack Development**, and **Backend Systems**
+
+🎨 Fun fact: I design event posters by day and build AI pipelines by night!
+
+📍 Hyderabad, Telangana, India &nbsp;|&nbsp; 📧 harshithakaredla@gmail.com
 
 ---
 
@@ -70,7 +60,7 @@ class Harshitha:
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB_(Vector_DB)-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB_Vector_DB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -85,12 +75,8 @@ class Harshitha:
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 🧠 DocMind — Advanced RAG & AI Pipeline
-**An agentic document intelligence system powered by LLMs**
+> An agentic document intelligence system powered by LLMs
 
 - Architected a semantic chunking + dynamic query routing RAG pipeline with **page-level citation accuracy**
 - Integrated **HuggingFace embeddings + ChromaDB + Groq LLaMA 3.3** for scalable LLM inference
@@ -103,13 +89,10 @@ class Harshitha:
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-<!-- 🔗 [GitHub Repo](https://github.com/harshithakaredla/docmind) | 🌐 [Live Demo](https://your-demo-link.com) -->
-
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### ✍️ InkFlow — Scalable Content Platform
-**A SaaS-grade multi-user content management platform**
+> A SaaS-grade multi-user content management platform
 
 - Optimized **MongoDB aggregation pipelines** → **40% faster** backend response times
 - Designed **RBAC-based JWT authentication** middleware for multi-role authorization
@@ -122,15 +105,10 @@ class Harshitha:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)
 
-<!-- 🔗 [GitHub Repo](https://github.com/harshithakaredla/inkflow) | 🌐 [Live Demo](https://your-demo-link.com) -->
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### 🏛️ Civix — Civic Engagement Platform
-**Automated civic data platform with real-time analytics**
+> Automated civic data platform with real-time analytics
 
 - Engineered **automated relational workflows** and structured data pipelines for real-time ingestion
 - Built **interactive analytics dashboards** for visualizing civic participation metrics
@@ -138,27 +116,9 @@ class Harshitha:
 - Delivered as a production-ready intern project at **Infosys Springboard**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-<!-- 🔗 [GitHub Repo](https://github.com/harshithakaredla/civix) | 🌐 [Live Demo](https://your-demo-link.com) -->
-
-    </td>
-    <td width="50%" valign="top">
-
-### 💡 More Coming Soon...
-> I'm always building. Follow along on GitHub!
-
-- 🤖 Exploring **autonomous agent frameworks**
-- 🔍 Deep diving into **semantic search** architectures
-- 🏗️ Experimenting with **multi-agent LLM orchestration**
-
-<!-- Add your next project here when ready! -->
-
-    </td>
-  </tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 ---
 
@@ -166,14 +126,10 @@ class Harshitha:
 
 <div align="center">
 
-<!-- 🔁 Replace 'harshithakaredla' with your actual GitHub username below -->
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshitha722&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha722&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitha722&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 
@@ -183,28 +139,20 @@ class Harshitha:
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
-
 | 🥇 Achievement | 🗂️ Category |
 |---|---|
-| 🧪 **Built 3+ production-grade full-stack apps** emphasizing scalable architecture | Open Source |
+| 🧪 **Built 3+ production-grade full-stack apps** emphasizing scalable architecture | Projects |
 | 📜 **Web Development** — Infosys Springboard | Certification |
 | 📜 **JavaScript Essentials 1 & 2** — Cisco | Certification |
 | 📜 **Python Essentials** — Cisco | Certification |
-
-</div>
 
 ---
 
 ## 📚 Currently Learning
 
-<div align="center">
-
 🤖 **Agentic AI Systems** &nbsp;|&nbsp; 🔍 **Advanced Vector Search** &nbsp;|&nbsp; ☁️ **Cloud Deployment (AWS/GCP)**
 
 🧠 **Multi-Agent LLM Orchestration** &nbsp;|&nbsp; 📊 **MLOps & Model Serving** &nbsp;|&nbsp; 🔐 **System Design at Scale**
-
-</div>
 
 ---
 
@@ -224,7 +172,7 @@ class Harshitha:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitha-karedla)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshithakaredla@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshithakaredla)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshitha722)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_7013248476-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917013248476)
 
 </div>
@@ -237,8 +185,6 @@ class Harshitha:
 
 *"The best way to predict the future is to build it."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshithakaredla&color=6E40C9&style=for-the-badge&label=Profile+Views)
-
-<!-- ⚡ Last updated: 2025 -->
+![Profile Views](https://komarev.com/ghpvc/?username=Harshitha722&color=6E40C9&style=for-the-badge&label=Profile+Views)
 
 </div>
