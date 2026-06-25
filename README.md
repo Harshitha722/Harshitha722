@@ -175,7 +175,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitha-karedla)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshithakaredla@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshitha722)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_7013248476-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917013248476)
+
 
 </div>
 
